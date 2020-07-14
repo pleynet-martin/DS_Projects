@@ -1,7 +1,15 @@
 I downloaded the Bike Share data from each of these cities that was made public on their websites, and I proceeded to clean the data
 accordingly and answered a list of questions I created for each city. Once the analysis for each city was complete, I compared each 
-cities system to the others to determine how well utilized and maintained they were.
+cities system to the others to determine how well utilized and maintained they were. I tracked how each bike share system changed over
+a three year period from 2017-2019.
 
-You'll find the individual analyses for each of the cities here as well as the comparison.
+You'll find the individual analyses for each of the cities as well as the comparison in this folder.
 
-In the graphs folder you'll find the graphs I created for each city based on the questions I wanted to answer along with the comparison graphs.
+You'll find the graphs I created for each city based on the questions I wanted to answer along with the comparison graphs in the graphs folder.
+
+Sources for data: 
+- https://www.bikeshare.com/data/
+- https://s3.amazonaws.com/biketown-tripdata-public/index.html
+- https://www.niceridemn.com/system-data
+- https://healthyridepgh.com/data/
+
