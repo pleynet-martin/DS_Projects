@@ -1,0 +1,21 @@
+Goals of Analysis/Questions:
+1. Demographics of riders (age, gender)
+3. Average time per ride (overall, age groups, subscriber v casual, etc.)
+4. Most used stations (overall, start, end) - look at influx and out-flux (try to create a density map graphic overlaid on a map of the city)
+5. Time of day when people ride the most(during week, on weekend)
+6. Time of day when people ride the least(during week, on weekend)
+7. How many stations are there each year? (Track increase in number of stations)
+8. How many bikes are there each year?
+9. How many rides per day for each bike?
+10. Ratio of the type of riders (Subscriber:Customer)
+11. What day of the week do people ride the most? Are the bikes for commuting or leisure?
+12. Look at how the total number of riders changes each year (increase, decrease, plateau?)
+13. Look at the ride time difference between subscribers and casual users - Why might this discrepancy exist?
+
+14. Compare number of bikes per 1000 people
+15. Compare number of stations per square mile
+16. Compare trips per bike share bicycle per day
+17. Compare trip duration
+18. Compare subscribership percentage
+
+All conclusions and analysis is drawn from 2017-2019 data for each city
